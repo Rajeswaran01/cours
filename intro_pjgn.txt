@@ -1,0 +1,27 @@
+\chapter{Présentation du Pôle}
+
+\section{Pôle Judiciaire de la Gendarmerie Nationale.}
+
+Le \textit{Pôle Judiciaire de la Gendarmerie Nationale} (\textit{PJGN}) est un pôle d’expertise dédié à la criminalistique et à l’intelligence judiciaire, avec une compétence couvrant tout le territoire français. Il a été crée le 1er janvier 2011 à Rosny-sous-Bois avant de déménager à Pontoise en mai 2015. Le \textit{PJGN} est composé d’environ 600 personnels (gendarmes et civils) et dispose d’une capacité de projection sur le terrain pour intervenir lors des incidents les plus graves.
+Le \textit{PJGN} comprend principalement deux services majeurs : l’\textit{Institut de Recherche Criminelle de la Gendarmerie Nationale} (\textit{IRCGN}) et le \textit{Service Central de Renseignement Criminel} (\textit{SCRC}).
+
+
+\subsection{Institut de Recherche Criminelle de la Gendarmerie Nationale.}
+
+L’\textit{IRCGN} est une unité de référence en matière de criminalistique et d'expertise scientifique. Il est composé de plusieurs laboratoires spécialisés dans divers domaines tels que la biologie, la chimie, la balistique, la toxicologie, et bien d'autres. Il intervient dans la collecte, l'analyse et l'interprétation des preuves scientifiques, apportant une aide précieuse aux enquêtes criminelles. Grâce à ses équipements de pointe et à son expertise reconnue, il joue un rôle crucial dans la résolution de nombreuses affaires complexes. 
+
+
+\subsection{Service Central de Renseignement Criminel.}
+
+Le \textit{SCRC} est chargé de la collecte, de l'analyse et de la diffusion du renseignement criminel au sein de la \textit{Gendarmerie Nationale}. Il se concentre sur l'analyse stratégique et opérationnelle des données criminelles pour soutenir les investigations et améliorer la prévention de la criminalité. Le \textit{SCRC} travaille en étroite collaboration avec d'autres services de renseignement et de police, tant au niveau national qu'international, pour partager les informations et coordonner les actions contre la criminalité organisée, le terrorisme, et d'autres menaces graves. \newline
+
+C’est dans le \textit{SCRC} que le \textit{Centre Forensique d’Intelligence Artificielle} se situe (en terme de localisation) (demander à Pierre/Daniel si c’est bien pour l’état major qu’ils travaillent)
+
+
+\section{Centre Forensique d'Intelligence Artificielle.}
+
+Le \textit{Centre Forensique d'Intelligence Artificielle} (\textit{CFIA}) du PJGN est une unité innovante dédiée à l'application de l'intelligence artificielle dans les enquêtes criminelles. Ce centre se focalise sur le développement et l'intégration de technologies avancées pour améliorer les capacités d'analyse et d'investigation. Il est composé de deux officiers commissionnés : le LCL \textit{Daniel CAMARA} et le CNE \textit{Pierre FICHEPOIL} ; d’un personnel civil : \textit{Camille MAGNOSI}. \newline
+
+Le \textit{CFIA} collabore étroitement avec d'autres services de la Gendarmerie et des entités externes, tant au niveau national qu'international, pour partager des connaissances et des technologies. Il représente une avancée significative dans la manière dont les forces de l'ordre utilisent les technologies de pointe pour résoudre les crimes et améliorer la sécurité publique. \newline
+
+Il a été distingué à plusieurs reprises pour ses contributions innovantes dans le domaine de l'intelligence artificielle appliquée aux enquêtes criminelles notamment en tant que «Plus grand contributeur» à la plateforme d’Europol pour le développement d’outils comme \textit{RosetAI}, un outil ayant une capacité à fournir une transcription de bonne qualité et une traduction multilingue et a aussi obtenu un «Prix d’Excellence Europol du projet innovant» pour la création d'une plateforme d'outils d'intelligence artificielle qui inclut des outils pour l'analyse d'empreintes digitales, la détection d'armes et de drogues, la transcription automatique de la parole en texte, l'extraction d'entités nommées et la traduction automatique dans plus de 100 langues.
